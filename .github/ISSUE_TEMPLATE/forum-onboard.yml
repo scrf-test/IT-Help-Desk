@@ -1,10 +1,10 @@
-name: Simple
-description: A default issue.
-title: "New Simple Ticket"
-labels: []
+name: Forum - Onboarding
+description: A SCRF member needs to be moved through a stage of onboarding.
+title: "[GitHub] 📌 Onboard Step"
+labels: [forum]
 assignees:
   - SirAh0
-body:
+body: 
   - type: markdown
     attributes:
       value: |
