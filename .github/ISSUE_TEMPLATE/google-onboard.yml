@@ -1,0 +1,17 @@
+name: Google - Onboarding
+description: A SCRF member needs to be moved through a stage of onboarding.
+title: "[Google] 📌 Onboard Step"
+labels: [google]
+assignees:
+  - SirAh0
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this new user form!
+
+  - type: textarea
+    id: text
+    attributes:
+      label: Issue Text
+      description: text goes here!

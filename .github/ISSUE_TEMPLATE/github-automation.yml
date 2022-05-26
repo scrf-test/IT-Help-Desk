@@ -1,0 +1,17 @@
+name: GitHub - Automation
+description: Something isnt automating anymore! I need something automated. 
+title: "[GitHub] 🩺 Workflow"
+labels: [github]
+assignees:
+  - SirAh0
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this new user form!
+
+  - type: textarea
+    id: text
+    attributes:
+      label: Issue Text
+      description: text goes here!

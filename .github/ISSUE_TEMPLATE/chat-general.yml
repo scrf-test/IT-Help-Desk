@@ -1,0 +1,17 @@
+name: Chat - General 
+description: It’s a general problem with chat.
+title: "[Chat] 🛎️ General"
+labels: [chat]
+assignees:
+  - SirAh0
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this new user form!
+
+  - type: textarea
+    id: text
+    attributes:
+      label: Issue Text
+      description: text goes here!
