@@ -1,6 +1,6 @@
-name: Google - Onboarding
-description: A SCRF member needs to be moved through a stage of onboarding.
-title: "[Google] 📌 Onboard Step"
+name: 🐟 Google - General
+description: A general request for help with a Google account.
+title: "🐟 - General"
 labels: [google]
 assignees:
   - SirAh0

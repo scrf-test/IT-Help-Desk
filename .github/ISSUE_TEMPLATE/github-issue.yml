@@ -1,6 +1,6 @@
-name: GitHub - Issues
+name: 💾 GitHub Issues
 description: Need a custom issue form, or change to form. Something about an issue isnt working right. 
-title: "[GitHub] 🧵 Issue"
+title: "💾 - Issue"
 labels: [github]
 assignees:
   - SirAh0

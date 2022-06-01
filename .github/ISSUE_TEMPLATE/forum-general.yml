@@ -1,6 +1,6 @@
-name: Forum - Onboarding
-description: A SCRF member needs to be moved through a stage of onboarding.
-title: "[GitHub] 📌 Onboard Step"
+name: 🏛️ Forum General
+description: A problem related to the Discourse forum.
+title: "🏛️ - General"
 labels: [forum]
 assignees:
   - SirAh0
