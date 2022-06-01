@@ -1,6 +1,6 @@
-name: Chat - User Role
+name: 🗪 Chat User Role
 description: A SCRF community member needs a role or a role change.
-title: "[Chat] 🤺 User Role"
+title: "🗪 - User Role"
 labels: [UAR, chat]
 assignees:
   - SirAh0
