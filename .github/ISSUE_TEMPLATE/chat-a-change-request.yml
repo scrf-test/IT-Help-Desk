@@ -1,7 +1,7 @@
-name: 💾 GitHub Project Boards
-description: A bot is doing something wrong or isn’t working at all. 
-title: "💾 - Project Board"
-labels: [github]
+name: 🗪 Chat Change Request
+description: Propose a change.
+title: "🗪 - Change Request"
+labels: [bug, chat]
 assignees:
   - SirAh0
 body:
